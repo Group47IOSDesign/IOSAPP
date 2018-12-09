@@ -64,13 +64,11 @@
  * Creation screen => location detail with some photos screen (in the actual wireframe, we'll need multiple screens to implement this)
  * Search screen => Google/Apple maps
  * Setting screen => multiple other screens.
----
- ### User Stories
-// TODO: Enumerate User Stories
-1. User can...
+
  ---
  ### Wireframes
-// TODO: Add Wireframe Images
+// TODO: https://www.dropbox.com/s/bug4n8i56swygz2/Untitled.png?dl=0
+https://media.giphy.com/media/6baOTJbmZboOyV8KcG/giphy.gif
  ---
  ### App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
+// TODO: https://docs.google.com/presentation/d/1aaHK3br5XlyXORzJ-kkbDfaJBnDJD2oMRkQDSkoM-O4/edit#slide=id.g46191e9b52_0_262
